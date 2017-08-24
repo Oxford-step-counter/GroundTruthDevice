@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ground Truth Validation</string>
+    <string name="connect">Connect</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+</resources>

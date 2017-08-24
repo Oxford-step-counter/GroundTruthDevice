@@ -6,11 +6,12 @@ The hardware is based on the [RFduino](http://www.rfduino.com/) board.
 
 
 
-## Files
+## Content
 
 * validation_data.xlsx contains the data used to validate the ground truth device
 * velostat_autothre contains the Arduino sketch
 * pics contains pictures of the device
+* ValidationApp is an Android app used to validate the device
 
 
 ## License
